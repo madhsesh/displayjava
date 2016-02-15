@@ -1,1 +1,1 @@
-display worldl
+display world
